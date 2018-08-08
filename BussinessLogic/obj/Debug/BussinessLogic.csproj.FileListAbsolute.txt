@@ -1,0 +1,77 @@
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\BussinessLogic\bin\Debug\DataHadelar.dll
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\BussinessLogic\bin\Debug\Model.dll
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\BussinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\BussinessLogic\bin\Debug\DataHadelar.pdb
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\BussinessLogic\bin\Debug\Model.pdb
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\BussinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\BussinessLogic\obj\Debug\BussinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\BussinessLogic\obj\Debug\BussinessLogic.pdb
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\BussinessLogic\bin\Debug\DataHadelar.dll
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\BussinessLogic\bin\Debug\Model.dll
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\BussinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\BussinessLogic\bin\Debug\DataHadelar.pdb
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\BussinessLogic\bin\Debug\Model.pdb
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\BussinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\BussinessLogic\obj\Debug\BussinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\BussinessLogic\obj\Debug\BussinessLogic.pdb
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\DataHadelar.dll
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\Model.dll
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\DataHadelar.pdb
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\Model.pdb
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\BussinessLogic\obj\Debug\BussinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\BussinessLogic\obj\Debug\BussinessLogic.pdb
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\DataHadelar.dll
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\Model.dll
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\DataHadelar.pdb
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\Model.pdb
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\BussinessLogic\obj\Debug\BussinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\BussinessLogic\obj\Debug\BussinessLogic.pdb
+E:\Class\Final 2\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\BussinessLogic.dll
+E:\Class\Final 2\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\BussinessLogic.pdb
+E:\Class\Final 2\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\DataHadelar.dll
+E:\Class\Final 2\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\Model.dll
+E:\Class\Final 2\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\EntityFramework.dll
+E:\Class\Final 2\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\DataHadelar.pdb
+E:\Class\Final 2\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\Model.pdb
+E:\Class\Final 2\Final\WinheProjectInvoice\BussinessLogic\bin\Debug\EntityFramework.xml
+E:\Class\Final 2\Final\WinheProjectInvoice\BussinessLogic\obj\Debug\BussinessLogic.csprojResolveAssemblyReference.cache
+E:\Class\Final 2\Final\WinheProjectInvoice\BussinessLogic\obj\Debug\BussinessLogic.dll
+E:\Class\Final 2\Final\WinheProjectInvoice\BussinessLogic\obj\Debug\BussinessLogic.pdb
+E:\Projects\WinheProjectInvoice\BussinessLogic\bin\Debug\BussinessLogic.dll
+E:\Projects\WinheProjectInvoice\BussinessLogic\bin\Debug\BussinessLogic.pdb
+E:\Projects\WinheProjectInvoice\BussinessLogic\bin\Debug\DataHadelar.dll
+E:\Projects\WinheProjectInvoice\BussinessLogic\bin\Debug\Model.dll
+E:\Projects\WinheProjectInvoice\BussinessLogic\bin\Debug\EntityFramework.dll
+E:\Projects\WinheProjectInvoice\BussinessLogic\bin\Debug\DataHadelar.pdb
+E:\Projects\WinheProjectInvoice\BussinessLogic\bin\Debug\Model.pdb
+E:\Projects\WinheProjectInvoice\BussinessLogic\bin\Debug\EntityFramework.xml
+E:\Projects\WinheProjectInvoice\BussinessLogic\obj\Debug\BussinessLogic.csprojResolveAssemblyReference.cache
+E:\Projects\WinheProjectInvoice\BussinessLogic\obj\Debug\BussinessLogic.dll
+E:\Projects\WinheProjectInvoice\BussinessLogic\obj\Debug\BussinessLogic.pdb
+F:\CIS Test\WinheProjectInvoice\BussinessLogic\bin\Debug\BussinessLogic.dll
+F:\CIS Test\WinheProjectInvoice\BussinessLogic\bin\Debug\BussinessLogic.pdb
+F:\CIS Test\WinheProjectInvoice\BussinessLogic\bin\Debug\DataHadelar.dll
+F:\CIS Test\WinheProjectInvoice\BussinessLogic\bin\Debug\Model.dll
+F:\CIS Test\WinheProjectInvoice\BussinessLogic\bin\Debug\EntityFramework.dll
+F:\CIS Test\WinheProjectInvoice\BussinessLogic\bin\Debug\DataHadelar.pdb
+F:\CIS Test\WinheProjectInvoice\BussinessLogic\bin\Debug\Model.pdb
+F:\CIS Test\WinheProjectInvoice\BussinessLogic\bin\Debug\EntityFramework.xml
+F:\CIS Test\WinheProjectInvoice\BussinessLogic\obj\Debug\BussinessLogic.csprojResolveAssemblyReference.cache
+F:\CIS Test\WinheProjectInvoice\BussinessLogic\obj\Debug\BussinessLogic.dll
+F:\CIS Test\WinheProjectInvoice\BussinessLogic\obj\Debug\BussinessLogic.pdb

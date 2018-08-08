@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WinheProjectModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CustomersDetail">
+    <Key>
+      <PropertyRef Name="Customer_Id" />
+    </Key>
+    <Property Name="Customer_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Customer_Name" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Customer_Email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Contact_Number" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Date_of_Birth" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Gender" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="InvoiceHeaderDetail">
+    <Key>
+      <PropertyRef Name="Invoice_No" />
+    </Key>
+    <Property Name="Invoice_No" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Customer_Id" Type="Int32" Nullable="false" />
+    <Property Name="Invoice_Date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Invoice_Amount" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Discount" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+  </EntityType>
+  <EntityType Name="InvoiceLineDetail">
+    <Key>
+      <PropertyRef Name="Invoice_No" />
+      <PropertyRef Name="Product_Id" />
+    </Key>
+    <Property Name="Invoice_No" Type="Int32" Nullable="false" />
+    <Property Name="Product_Id" Type="Int32" Nullable="false" />
+    <Property Name="Qntity" Type="Int32" Nullable="false" />
+    <Property Name="Unit_Price" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Total_Price" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProductDetail">
+    <Key>
+      <PropertyRef Name="Product_Id" />
+    </Key>
+    <Property Name="Product_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Product_Name" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Product_Description" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Purchase_Price" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Selling_Price" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="WinheProjectEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CustomersDetails" EntityType="Self.CustomersDetail" />
+    <EntitySet Name="InvoiceHeaderDetails" EntityType="Self.InvoiceHeaderDetail" />
+    <EntitySet Name="InvoiceLineDetails" EntityType="Self.InvoiceLineDetail" />
+    <EntitySet Name="ProductDetails" EntityType="Self.ProductDetail" />
+    <FunctionImport Name="Proc_GetCustomers" ReturnType="Collection(WinheProjectModel.Proc_GetCustomers_Result)" />
+    <FunctionImport Name="Proc_Getdata" ReturnType="Collection(WinheProjectModel.Proc_Getdata_Result)" />
+    <FunctionImport Name="Proc_GetInvoiceData" ReturnType="Collection(WinheProjectModel.Proc_GetInvoiceData_Result)" />
+    <FunctionImport Name="Proc_GetInvoiceData2" ReturnType="Collection(WinheProjectModel.Proc_GetInvoiceData2_Result)" />
+    <FunctionImport Name="Proc_GetProducts" ReturnType="Collection(WinheProjectModel.Proc_GetProducts_Result)" />
+    <FunctionImport Name="PROC_invo" ReturnType="Collection(WinheProjectModel.PROC_invo_Result)" />
+  </EntityContainer>
+  <ComplexType Name="Proc_GetCustomers_Result">
+    <Property Type="Int32" Name="Customer_Id" Nullable="false" />
+    <Property Type="String" Name="Customer_Name" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="Customer_Email" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="Address" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="Cuntact_Number" Nullable="false" MaxLength="100" />
+    <Property Type="DateTime" Name="Date_Of_Birth" Nullable="false" />
+    <Property Type="String" Name="Gender" Nullable="false" MaxLength="100" />
+  </ComplexType>
+  <ComplexType Name="Proc_Getdata_Result">
+    <Property Type="String" Name="Customer_Name" Nullable="false" MaxLength="100" />
+    <Property Type="Int32" Name="Customer_Id" Nullable="false" />
+    <Property Type="Decimal" Name="Discount" Nullable="false" Precision="18" Scale="2" />
+    <Property Type="DateTime" Name="Invoice_Date" Nullable="false" Precision="23" />
+    <Property Type="Int32" Name="Invoice_No" Nullable="false" />
+    <Property Type="Int32" Name="Product_Id" Nullable="false" />
+    <Property Type="Int32" Name="Qntity" Nullable="false" />
+    <Property Type="Decimal" Name="Total_Price" Nullable="false" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="Unit_Price" Nullable="false" Precision="18" Scale="2" />
+    <Property Type="String" Name="Product_Name" Nullable="false" MaxLength="100" />
+  </ComplexType>
+  <ComplexType Name="Proc_GetInvoiceData_Result">
+    <Property Type="Int32" Name="Customer_Id" Nullable="false" />
+    <Property Type="DateTime" Name="Invoice_Date" Nullable="false" Precision="23" />
+    <Property Type="Decimal" Name="Invoice_Amount" Nullable="false" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="Discount" Nullable="false" Precision="18" Scale="2" />
+  </ComplexType>
+  <ComplexType Name="Proc_GetInvoiceData2_Result">
+    <Property Type="Int32" Name="Customer_Id" Nullable="false" />
+    <Property Type="DateTime" Name="Invoice_Date" Nullable="false" Precision="23" />
+    <Property Type="Decimal" Name="Invoice_Amount" Nullable="false" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="Discount" Nullable="false" Precision="18" Scale="2" />
+    <Property Type="Int32" Name="Product_Id" Nullable="false" />
+    <Property Type="Int32" Name="Qntity" Nullable="false" />
+    <Property Type="Decimal" Name="Unit_Price" Nullable="false" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="Total_Price" Nullable="false" Precision="18" Scale="2" />
+  </ComplexType>
+  <ComplexType Name="Proc_GetProducts_Result">
+    <Property Type="Int32" Name="Product_id" Nullable="false" />
+    <Property Type="String" Name="Product_Name" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="Product_Description" Nullable="false" MaxLength="100" />
+    <Property Type="Decimal" Name="Purches_Prise" Nullable="false" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="Selling_Prise" Nullable="false" Precision="18" Scale="2" />
+    <Property Type="Int32" Name="Quantity" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="PROC_invo_Result">
+    <Property Type="String" Name="Customer_Name" Nullable="false" MaxLength="100" />
+    <Property Type="Int32" Name="Customer_Id" Nullable="false" />
+    <Property Type="Decimal" Name="Discount" Nullable="false" Precision="18" Scale="2" />
+    <Property Type="DateTime" Name="Invoice_Date" Nullable="false" Precision="23" />
+    <Property Type="Int32" Name="Invoice_No" Nullable="false" />
+    <Property Type="Int32" Name="Product_Id" Nullable="false" />
+    <Property Type="Int32" Name="Qntity" Nullable="false" />
+    <Property Type="Decimal" Name="Total_Price" Nullable="false" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="Unit_Price" Nullable="false" Precision="18" Scale="2" />
+    <Property Type="String" Name="Product_Name" Nullable="false" MaxLength="100" />
+  </ComplexType>
+</Schema>

@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="WinheProjectModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="CustomersDetails">
+          <Key>
+            <PropertyRef Name="Customer Id" />
+          </Key>
+          <Property Name="Customer Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Customer Name" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="Customer Email" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="Address" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="Contact Number" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="Date of Birth" Type="date" Nullable="false" />
+          <Property Name="Gender" Type="varchar" MaxLength="100" Nullable="false" />
+        </EntityType>
+        <EntityType Name="InvoiceHeaderDetails">
+          <Key>
+            <PropertyRef Name="Invoice_No" />
+          </Key>
+          <Property Name="Invoice_No" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Customer_Id" Type="int" Nullable="false" />
+          <Property Name="Invoice_Date" Type="datetime" Nullable="false" />
+          <Property Name="Invoice_Amount" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+          <Property Name="Discount" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+        </EntityType>
+        <EntityType Name="InvoiceLineDetails">
+          <Key>
+            <PropertyRef Name="Invoice_No" />
+            <PropertyRef Name="Product_Id" />
+          </Key>
+          <Property Name="Invoice_No" Type="int" Nullable="false" />
+          <Property Name="Product_Id" Type="int" Nullable="false" />
+          <Property Name="Qntity" Type="int" Nullable="false" />
+          <Property Name="Unit Price" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+          <Property Name="Total Price" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ProductDetails">
+          <Key>
+            <PropertyRef Name="Product Id" />
+          </Key>
+          <Property Name="Product Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Product Name" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="Product Description" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="Purchase Price" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+          <Property Name="Selling Price" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+          <Property Name="Quantity" Type="int" Nullable="false" />
+        </EntityType>
+        <Function Name="Proc_GetCustomers" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <Function Name="Proc_Getdata" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <Function Name="Proc_GetInvoiceData" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <Function Name="Proc_GetInvoiceData2" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <Function Name="Proc_GetProducts" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <Function Name="PROC_invo" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <EntityContainer Name="WinheProjectModelStoreContainer">
+          <EntitySet Name="CustomersDetails" EntityType="Self.CustomersDetails" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="InvoiceHeaderDetails" EntityType="Self.InvoiceHeaderDetails" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="InvoiceLineDetails" EntityType="Self.InvoiceLineDetails" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ProductDetails" EntityType="Self.ProductDetails" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="WinheProjectModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="CustomersDetail">
+          <Key>
+            <PropertyRef Name="Customer_Id" />
+          </Key>
+          <Property Name="Customer_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Customer_Name" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Customer_Email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Address" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Contact_Number" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Date_of_Birth" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="Gender" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+        </EntityType>
+        <EntityType Name="InvoiceHeaderDetail">
+          <Key>
+            <PropertyRef Name="Invoice_No" />
+          </Key>
+          <Property Name="Invoice_No" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Customer_Id" Type="Int32" Nullable="false" />
+          <Property Name="Invoice_Date" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="Invoice_Amount" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+          <Property Name="Discount" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+        </EntityType>
+        <EntityType Name="InvoiceLineDetail">
+          <Key>
+            <PropertyRef Name="Invoice_No" />
+            <PropertyRef Name="Product_Id" />
+          </Key>
+          <Property Name="Invoice_No" Type="Int32" Nullable="false" />
+          <Property Name="Product_Id" Type="Int32" Nullable="false" />
+          <Property Name="Qntity" Type="Int32" Nullable="false" />
+          <Property Name="Unit_Price" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+          <Property Name="Total_Price" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ProductDetail">
+          <Key>
+            <PropertyRef Name="Product_Id" />
+          </Key>
+          <Property Name="Product_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Product_Name" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Product_Description" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Purchase_Price" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+          <Property Name="Selling_Price" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+          <Property Name="Quantity" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="WinheProjectEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="CustomersDetails" EntityType="Self.CustomersDetail" />
+          <EntitySet Name="InvoiceHeaderDetails" EntityType="Self.InvoiceHeaderDetail" />
+          <EntitySet Name="InvoiceLineDetails" EntityType="Self.InvoiceLineDetail" />
+          <EntitySet Name="ProductDetails" EntityType="Self.ProductDetail" />
+          <FunctionImport Name="Proc_GetCustomers" ReturnType="Collection(WinheProjectModel.Proc_GetCustomers_Result)" />
+          <FunctionImport Name="Proc_Getdata" ReturnType="Collection(WinheProjectModel.Proc_Getdata_Result)" />
+          <FunctionImport Name="Proc_GetInvoiceData" ReturnType="Collection(WinheProjectModel.Proc_GetInvoiceData_Result)" />
+          <FunctionImport Name="Proc_GetInvoiceData2" ReturnType="Collection(WinheProjectModel.Proc_GetInvoiceData2_Result)" />
+          <FunctionImport Name="Proc_GetProducts" ReturnType="Collection(WinheProjectModel.Proc_GetProducts_Result)" />
+          <FunctionImport Name="PROC_invo" ReturnType="Collection(WinheProjectModel.PROC_invo_Result)" />
+        </EntityContainer>
+        <ComplexType Name="Proc_GetCustomers_Result">
+          <Property Type="Int32" Name="Customer_Id" Nullable="false" />
+          <Property Type="String" Name="Customer_Name" Nullable="false" MaxLength="100" />
+          <Property Type="String" Name="Customer_Email" Nullable="false" MaxLength="100" />
+          <Property Type="String" Name="Address" Nullable="false" MaxLength="100" />
+          <Property Type="String" Name="Cuntact_Number" Nullable="false" MaxLength="100" />
+          <Property Type="DateTime" Name="Date_Of_Birth" Nullable="false" />
+          <Property Type="String" Name="Gender" Nullable="false" MaxLength="100" />
+        </ComplexType>
+        <ComplexType Name="Proc_Getdata_Result">
+          <Property Type="String" Name="Customer_Name" Nullable="false" MaxLength="100" />
+          <Property Type="Int32" Name="Customer_Id" Nullable="false" />
+          <Property Type="Decimal" Name="Discount" Nullable="false" Precision="18" Scale="2" />
+          <Property Type="DateTime" Name="Invoice_Date" Nullable="false" Precision="23" />
+          <Property Type="Int32" Name="Invoice_No" Nullable="false" />
+          <Property Type="Int32" Name="Product_Id" Nullable="false" />
+          <Property Type="Int32" Name="Qntity" Nullable="false" />
+          <Property Type="Decimal" Name="Total_Price" Nullable="false" Precision="18" Scale="2" />
+          <Property Type="Decimal" Name="Unit_Price" Nullable="false" Precision="18" Scale="2" />
+          <Property Type="String" Name="Product_Name" Nullable="false" MaxLength="100" />
+        </ComplexType>
+        <ComplexType Name="Proc_GetInvoiceData_Result">
+          <Property Type="Int32" Name="Customer_Id" Nullable="false" />
+          <Property Type="DateTime" Name="Invoice_Date" Nullable="false" Precision="23" />
+          <Property Type="Decimal" Name="Invoice_Amount" Nullable="false" Precision="18" Scale="2" />
+          <Property Type="Decimal" Name="Discount" Nullable="false" Precision="18" Scale="2" />
+        </ComplexType>
+        <ComplexType Name="Proc_GetInvoiceData2_Result">
+          <Property Type="Int32" Name="Customer_Id" Nullable="false" />
+          <Property Type="DateTime" Name="Invoice_Date" Nullable="false" Precision="23" />
+          <Property Type="Decimal" Name="Invoice_Amount" Nullable="false" Precision="18" Scale="2" />
+          <Property Type="Decimal" Name="Discount" Nullable="false" Precision="18" Scale="2" />
+          <Property Type="Int32" Name="Product_Id" Nullable="false" />
+          <Property Type="Int32" Name="Qntity" Nullable="false" />
+          <Property Type="Decimal" Name="Unit_Price" Nullable="false" Precision="18" Scale="2" />
+          <Property Type="Decimal" Name="Total_Price" Nullable="false" Precision="18" Scale="2" />
+        </ComplexType>
+        <ComplexType Name="Proc_GetProducts_Result">
+          <Property Type="Int32" Name="Product_id" Nullable="false" />
+          <Property Type="String" Name="Product_Name" Nullable="false" MaxLength="100" />
+          <Property Type="String" Name="Product_Description" Nullable="false" MaxLength="100" />
+          <Property Type="Decimal" Name="Purches_Prise" Nullable="false" Precision="18" Scale="2" />
+          <Property Type="Decimal" Name="Selling_Prise" Nullable="false" Precision="18" Scale="2" />
+          <Property Type="Int32" Name="Quantity" Nullable="false" />
+        </ComplexType>
+        <ComplexType Name="PROC_invo_Result">
+          <Property Type="String" Name="Customer_Name" Nullable="false" MaxLength="100" />
+          <Property Type="Int32" Name="Customer_Id" Nullable="false" />
+          <Property Type="Decimal" Name="Discount" Nullable="false" Precision="18" Scale="2" />
+          <Property Type="DateTime" Name="Invoice_Date" Nullable="false" Precision="23" />
+          <Property Type="Int32" Name="Invoice_No" Nullable="false" />
+          <Property Type="Int32" Name="Product_Id" Nullable="false" />
+          <Property Type="Int32" Name="Qntity" Nullable="false" />
+          <Property Type="Decimal" Name="Total_Price" Nullable="false" Precision="18" Scale="2" />
+          <Property Type="Decimal" Name="Unit_Price" Nullable="false" Precision="18" Scale="2" />
+          <Property Type="String" Name="Product_Name" Nullable="false" MaxLength="100" />
+        </ComplexType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="WinheProjectModelStoreContainer" CdmEntityContainer="WinheProjectEntities">
+          <EntitySetMapping Name="CustomersDetails">
+            <EntityTypeMapping TypeName="WinheProjectModel.CustomersDetail">
+              <MappingFragment StoreEntitySet="CustomersDetails">
+                <ScalarProperty Name="Customer_Id" ColumnName="Customer Id" />
+                <ScalarProperty Name="Customer_Name" ColumnName="Customer Name" />
+                <ScalarProperty Name="Customer_Email" ColumnName="Customer Email" />
+                <ScalarProperty Name="Address" ColumnName="Address" />
+                <ScalarProperty Name="Contact_Number" ColumnName="Contact Number" />
+                <ScalarProperty Name="Date_of_Birth" ColumnName="Date of Birth" />
+                <ScalarProperty Name="Gender" ColumnName="Gender" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="InvoiceHeaderDetails">
+            <EntityTypeMapping TypeName="WinheProjectModel.InvoiceHeaderDetail">
+              <MappingFragment StoreEntitySet="InvoiceHeaderDetails">
+                <ScalarProperty Name="Invoice_No" ColumnName="Invoice_No" />
+                <ScalarProperty Name="Customer_Id" ColumnName="Customer_Id" />
+                <ScalarProperty Name="Invoice_Date" ColumnName="Invoice_Date" />
+                <ScalarProperty Name="Invoice_Amount" ColumnName="Invoice_Amount" />
+                <ScalarProperty Name="Discount" ColumnName="Discount" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="InvoiceLineDetails">
+            <EntityTypeMapping TypeName="WinheProjectModel.InvoiceLineDetail">
+              <MappingFragment StoreEntitySet="InvoiceLineDetails">
+                <ScalarProperty Name="Invoice_No" ColumnName="Invoice_No" />
+                <ScalarProperty Name="Product_Id" ColumnName="Product_Id" />
+                <ScalarProperty Name="Qntity" ColumnName="Qntity" />
+                <ScalarProperty Name="Unit_Price" ColumnName="Unit Price" />
+                <ScalarProperty Name="Total_Price" ColumnName="Total Price" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ProductDetails">
+            <EntityTypeMapping TypeName="WinheProjectModel.ProductDetail">
+              <MappingFragment StoreEntitySet="ProductDetails">
+                <ScalarProperty Name="Product_Id" ColumnName="Product Id" />
+                <ScalarProperty Name="Product_Name" ColumnName="Product Name" />
+                <ScalarProperty Name="Product_Description" ColumnName="Product Description" />
+                <ScalarProperty Name="Purchase_Price" ColumnName="Purchase Price" />
+                <ScalarProperty Name="Selling_Price" ColumnName="Selling Price" />
+                <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <FunctionImportMapping FunctionImportName="Proc_GetCustomers" FunctionName="WinheProjectModel.Store.Proc_GetCustomers">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="WinheProjectModel.Proc_GetCustomers_Result">
+                <ScalarProperty Name="Customer_Id" ColumnName="Customer_Id" />
+                <ScalarProperty Name="Customer_Name" ColumnName="Customer_Name" />
+                <ScalarProperty Name="Customer_Email" ColumnName="Customer_Email" />
+                <ScalarProperty Name="Address" ColumnName="Address" />
+                <ScalarProperty Name="Cuntact_Number" ColumnName="Cuntact_Number" />
+                <ScalarProperty Name="Date_Of_Birth" ColumnName="Date_Of_Birth" />
+                <ScalarProperty Name="Gender" ColumnName="Gender" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="Proc_Getdata" FunctionName="WinheProjectModel.Store.Proc_Getdata">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="WinheProjectModel.Proc_Getdata_Result">
+                <ScalarProperty Name="Customer_Name" ColumnName="Customer_Name" />
+                <ScalarProperty Name="Customer_Id" ColumnName="Customer_Id" />
+                <ScalarProperty Name="Discount" ColumnName="Discount" />
+                <ScalarProperty Name="Invoice_Date" ColumnName="Invoice_Date" />
+                <ScalarProperty Name="Invoice_No" ColumnName="Invoice_No" />
+                <ScalarProperty Name="Product_Id" ColumnName="Product_Id" />
+                <ScalarProperty Name="Qntity" ColumnName="Qntity" />
+                <ScalarProperty Name="Total_Price" ColumnName="Total_Price" />
+                <ScalarProperty Name="Unit_Price" ColumnName="Unit_Price" />
+                <ScalarProperty Name="Product_Name" ColumnName="Product_Name" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="Proc_GetInvoiceData" FunctionName="WinheProjectModel.Store.Proc_GetInvoiceData">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="WinheProjectModel.Proc_GetInvoiceData_Result">
+                <ScalarProperty Name="Customer_Id" ColumnName="Customer_Id" />
+                <ScalarProperty Name="Invoice_Date" ColumnName="Invoice_Date" />
+                <ScalarProperty Name="Invoice_Amount" ColumnName="Invoice_Amount" />
+                <ScalarProperty Name="Discount" ColumnName="Discount" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="Proc_GetInvoiceData2" FunctionName="WinheProjectModel.Store.Proc_GetInvoiceData2">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="WinheProjectModel.Proc_GetInvoiceData2_Result">
+                <ScalarProperty Name="Customer_Id" ColumnName="Customer_Id" />
+                <ScalarProperty Name="Invoice_Date" ColumnName="Invoice_Date" />
+                <ScalarProperty Name="Invoice_Amount" ColumnName="Invoice_Amount" />
+                <ScalarProperty Name="Discount" ColumnName="Discount" />
+                <ScalarProperty Name="Product_Id" ColumnName="Product_Id" />
+                <ScalarProperty Name="Qntity" ColumnName="Qntity" />
+                <ScalarProperty Name="Unit_Price" ColumnName="Unit Price" />
+                <ScalarProperty Name="Total_Price" ColumnName="Total Price" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="Proc_GetProducts" FunctionName="WinheProjectModel.Store.Proc_GetProducts">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="WinheProjectModel.Proc_GetProducts_Result">
+                <ScalarProperty Name="Product_id" ColumnName="Product_id" />
+                <ScalarProperty Name="Product_Name" ColumnName="Product_Name" />
+                <ScalarProperty Name="Product_Description" ColumnName="Product_Description" />
+                <ScalarProperty Name="Purches_Prise" ColumnName="Purches_Prise" />
+                <ScalarProperty Name="Selling_Prise" ColumnName="Selling_Prise" />
+                <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="PROC_invo" FunctionName="WinheProjectModel.Store.PROC_invo">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="WinheProjectModel.PROC_invo_Result">
+                <ScalarProperty Name="Customer_Name" ColumnName="Customer_Name" />
+                <ScalarProperty Name="Customer_Id" ColumnName="Customer_Id" />
+                <ScalarProperty Name="Discount" ColumnName="Discount" />
+                <ScalarProperty Name="Invoice_Date" ColumnName="Invoice_Date" />
+                <ScalarProperty Name="Invoice_No" ColumnName="Invoice_No" />
+                <ScalarProperty Name="Product_Id" ColumnName="Product_Id" />
+                <ScalarProperty Name="Qntity" ColumnName="Qntity" />
+                <ScalarProperty Name="Total_Price" ColumnName="Total_Price" />
+                <ScalarProperty Name="Unit_Price" ColumnName="Unit_Price" />
+                <ScalarProperty Name="Product_Name" ColumnName="Product_Name" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="true" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

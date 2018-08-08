@@ -1,0 +1,70 @@
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\DataHadelar\bin\Debug\DataHadelar.dll.config
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\DataHadelar\bin\Debug\DataHadelar.dll
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\DataHadelar\bin\Debug\DataHadelar.pdb
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\DataHadelar\bin\Debug\EntityFramework.dll
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\DataHadelar\bin\Debug\Model.dll
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\DataHadelar\bin\Debug\Model.pdb
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\DataHadelar\bin\Debug\EntityFramework.xml
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\DataHadelar\obj\Debug\DataHadelar.csprojResolveAssemblyReference.cache
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\DataHadelar\obj\Debug\DataHadelar.dll
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\DataHadelar\obj\Debug\DataHadelar.pdb
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\DataHadelar\bin\Debug\DataHadelar.dll.config
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\DataHadelar\bin\Debug\DataHadelar.dll
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\DataHadelar\bin\Debug\DataHadelar.pdb
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\DataHadelar\bin\Debug\EntityFramework.dll
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\DataHadelar\bin\Debug\Model.dll
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\DataHadelar\bin\Debug\Model.pdb
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\DataHadelar\bin\Debug\EntityFramework.xml
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\DataHadelar\obj\Debug\DataHadelar.csprojResolveAssemblyReference.cache
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\DataHadelar\obj\Debug\DataHadelar.dll
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\DataHadelar\obj\Debug\DataHadelar.pdb
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\DataHadelar\bin\Debug\DataHadelar.dll.config
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\DataHadelar\bin\Debug\DataHadelar.dll
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\DataHadelar\bin\Debug\DataHadelar.pdb
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\DataHadelar\bin\Debug\EntityFramework.dll
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\DataHadelar\bin\Debug\Model.dll
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\DataHadelar\bin\Debug\Model.pdb
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\DataHadelar\bin\Debug\EntityFramework.xml
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\DataHadelar\obj\Debug\DataHadelar.csprojResolveAssemblyReference.cache
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\DataHadelar\obj\Debug\DataHadelar.dll
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\DataHadelar\obj\Debug\DataHadelar.pdb
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\DataHadelar\bin\Debug\DataHadelar.dll.config
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\DataHadelar\bin\Debug\DataHadelar.dll
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\DataHadelar\bin\Debug\DataHadelar.pdb
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\DataHadelar\bin\Debug\EntityFramework.dll
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\DataHadelar\bin\Debug\Model.dll
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\DataHadelar\bin\Debug\Model.pdb
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\DataHadelar\bin\Debug\EntityFramework.xml
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\DataHadelar\obj\Debug\DataHadelar.csprojResolveAssemblyReference.cache
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\DataHadelar\obj\Debug\DataHadelar.dll
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\DataHadelar\obj\Debug\DataHadelar.pdb
+E:\Class\Final 2\Final\WinheProjectInvoice\DataHadelar\bin\Debug\DataHadelar.dll.config
+E:\Class\Final 2\Final\WinheProjectInvoice\DataHadelar\bin\Debug\DataHadelar.dll
+E:\Class\Final 2\Final\WinheProjectInvoice\DataHadelar\bin\Debug\DataHadelar.pdb
+E:\Class\Final 2\Final\WinheProjectInvoice\DataHadelar\bin\Debug\EntityFramework.dll
+E:\Class\Final 2\Final\WinheProjectInvoice\DataHadelar\bin\Debug\Model.dll
+E:\Class\Final 2\Final\WinheProjectInvoice\DataHadelar\bin\Debug\Model.pdb
+E:\Class\Final 2\Final\WinheProjectInvoice\DataHadelar\bin\Debug\EntityFramework.xml
+E:\Class\Final 2\Final\WinheProjectInvoice\DataHadelar\obj\Debug\DataHadelar.csprojResolveAssemblyReference.cache
+E:\Class\Final 2\Final\WinheProjectInvoice\DataHadelar\obj\Debug\DataHadelar.dll
+E:\Class\Final 2\Final\WinheProjectInvoice\DataHadelar\obj\Debug\DataHadelar.pdb
+E:\Projects\WinheProjectInvoice\DataHadelar\bin\Debug\DataHadelar.dll.config
+E:\Projects\WinheProjectInvoice\DataHadelar\bin\Debug\DataHadelar.dll
+E:\Projects\WinheProjectInvoice\DataHadelar\bin\Debug\DataHadelar.pdb
+E:\Projects\WinheProjectInvoice\DataHadelar\bin\Debug\EntityFramework.dll
+E:\Projects\WinheProjectInvoice\DataHadelar\bin\Debug\Model.dll
+E:\Projects\WinheProjectInvoice\DataHadelar\bin\Debug\Model.pdb
+E:\Projects\WinheProjectInvoice\DataHadelar\bin\Debug\EntityFramework.xml
+E:\Projects\WinheProjectInvoice\DataHadelar\obj\Debug\DataHadelar.csprojResolveAssemblyReference.cache
+E:\Projects\WinheProjectInvoice\DataHadelar\obj\Debug\DataHadelar.dll
+E:\Projects\WinheProjectInvoice\DataHadelar\obj\Debug\DataHadelar.pdb
+F:\CIS Test\WinheProjectInvoice\DataHadelar\bin\Debug\DataHadelar.dll.config
+F:\CIS Test\WinheProjectInvoice\DataHadelar\bin\Debug\DataHadelar.dll
+F:\CIS Test\WinheProjectInvoice\DataHadelar\bin\Debug\DataHadelar.pdb
+F:\CIS Test\WinheProjectInvoice\DataHadelar\bin\Debug\EntityFramework.dll
+F:\CIS Test\WinheProjectInvoice\DataHadelar\bin\Debug\Model.dll
+F:\CIS Test\WinheProjectInvoice\DataHadelar\bin\Debug\Model.pdb
+F:\CIS Test\WinheProjectInvoice\DataHadelar\bin\Debug\EntityFramework.xml
+F:\CIS Test\WinheProjectInvoice\DataHadelar\obj\Debug\DataHadelar.csprojResolveAssemblyReference.cache
+F:\CIS Test\WinheProjectInvoice\DataHadelar\obj\Debug\DataHadelar.dll
+F:\CIS Test\WinheProjectInvoice\DataHadelar\obj\Debug\DataHadelar.pdb

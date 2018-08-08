@@ -1,0 +1,187 @@
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\WinheProjectInvoice.exe.config
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.csprojResolveAssemblyReference.cache
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Properties.Resources.resources
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.csproj.GenerateResource.Cache
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\WinheProjectInvoice.exe
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\WinheProjectInvoice.pdb
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.exe
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.pdb
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.AddCustomer.resources
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.AddProduct.resources
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Customer.resources
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.EditProducts.resources
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Home.resources
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Invoice.resources
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Product.resources
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\BussinessLogic.dll
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\Model.dll
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\BussinessLogic.pdb
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\Model.pdb
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\DataHadelar.dll
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\EntityFramework.dll
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\DataHadelar.pdb
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\EntityFramework.xml
+C:\Users\Madush\Desktop\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\WinheProjectInvoice.exe.config
+C:\Users\Madush\Desktop\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.exe
+C:\Users\Madush\Desktop\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.pdb
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\WinheProjectInvoice.exe.config
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.exe
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.pdb
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\WinheProjectInvoice.exe
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\WinheProjectInvoice.pdb
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\BussinessLogic.dll
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\Model.dll
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\DataHadelar.dll
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\EntityFramework.dll
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\BussinessLogic.pdb
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\Model.pdb
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\DataHadelar.pdb
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\EntityFramework.xml
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.csprojResolveAssemblyReference.cache
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.AddProduct.resources
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Customer.resources
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.EditProducts.resources
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Home.resources
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Invoice.resources
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Product.resources
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Properties.Resources.resources
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.csproj.GenerateResource.Cache
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.AddCustomerdata.resources
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\WinheProjectInvoice.exe.config
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.exe
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.pdb
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\WinheProjectInvoice.exe
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\WinheProjectInvoice.pdb
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\BussinessLogic.dll
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\Model.dll
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\DataHadelar.dll
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\EntityFramework.dll
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\BussinessLogic.pdb
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\Model.pdb
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\DataHadelar.pdb
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\EntityFramework.xml
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.csprojResolveAssemblyReference.cache
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.AddCustomerdata.resources
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.AddProduct.resources
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Customer.resources
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.EditProducts.resources
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Home.resources
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Invoice.resources
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Product.resources
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Properties.Resources.resources
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.csproj.GenerateResource.Cache
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.SelectCustomer.resources
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\WinheProjectInvoice.exe.config
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.exe
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.pdb
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\WinheProjectInvoice.exe
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\WinheProjectInvoice.pdb
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\BussinessLogic.dll
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\Model.dll
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\DataHadelar.dll
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\EntityFramework.dll
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\BussinessLogic.pdb
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\Model.pdb
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\DataHadelar.pdb
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\EntityFramework.xml
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.csprojResolveAssemblyReference.cache
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.AddCustomerdata.resources
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.AddProduct.resources
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Customer.resources
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.EditProducts.resources
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Home.resources
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Invoice.resources
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Product.resources
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Properties.Resources.resources
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.SelectCustomer.resources
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.csproj.GenerateResource.Cache
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.ViewInvoices.resources
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Report.resources
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\RdlCompile.cache
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\RdlCompile.compiled
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.report2.resources
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\WinheProjectInvoice.exe.config
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.exe
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.pdb
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\WinheProjectInvoice.exe
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\WinheProjectInvoice.pdb
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\BussinessLogic.dll
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\Model.dll
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\DataHadelar.dll
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\EntityFramework.dll
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\BussinessLogic.pdb
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\Model.pdb
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\DataHadelar.pdb
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\EntityFramework.xml
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.csprojResolveAssemblyReference.cache
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.AddCustomerdata.resources
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.AddProduct.resources
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Customer.resources
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.EditProducts.resources
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Home.resources
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Invoice.resources
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Product.resources
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Properties.Resources.resources
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Report.resources
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.report2.resources
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.SelectCustomer.resources
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.ViewInvoices.resources
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.csproj.GenerateResource.Cache
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\RdlCompile.cache
+E:\Class\Final 2\Final\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\RdlCompile.compiled
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\WinheProjectInvoice.exe.config
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.exe
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.pdb
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\WinheProjectInvoice.exe
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\WinheProjectInvoice.pdb
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\BussinessLogic.dll
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\Model.dll
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\DataHadelar.dll
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\EntityFramework.dll
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\BussinessLogic.pdb
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\Model.pdb
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\DataHadelar.pdb
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\EntityFramework.xml
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.csprojResolveAssemblyReference.cache
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.AddCustomerdata.resources
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.AddProduct.resources
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Customer.resources
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.EditProducts.resources
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Home.resources
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Invoice.resources
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Product.resources
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Properties.Resources.resources
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Report.resources
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.report2.resources
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.SelectCustomer.resources
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.ViewInvoices.resources
+E:\Projects\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.csproj.GenerateResource.Cache
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\WinheProjectInvoice.exe.config
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.exe
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.pdb
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\WinheProjectInvoice.exe
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\WinheProjectInvoice.pdb
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\BussinessLogic.dll
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\Model.dll
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\DataHadelar.dll
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\EntityFramework.dll
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\BussinessLogic.pdb
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\Model.pdb
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\DataHadelar.pdb
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\bin\Debug\EntityFramework.xml
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.csprojResolveAssemblyReference.cache
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.AddCustomerdata.resources
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.AddProduct.resources
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Customer.resources
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.EditProducts.resources
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Home.resources
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Invoice.resources
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Product.resources
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Properties.Resources.resources
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.Report.resources
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.report2.resources
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.SelectCustomer.resources
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.ViewInvoices.resources
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\WinheProjectInvoice.csproj.GenerateResource.Cache
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\RdlCompile.cache
+F:\CIS Test\WinheProjectInvoice\WinheProjectInvoice\obj\Debug\RdlCompile.compiled

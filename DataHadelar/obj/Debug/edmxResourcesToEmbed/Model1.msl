@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WinheProjectModelStoreContainer" CdmEntityContainer="WinheProjectEntities">
+    <EntitySetMapping Name="CustomersDetails">
+      <EntityTypeMapping TypeName="WinheProjectModel.CustomersDetail">
+        <MappingFragment StoreEntitySet="CustomersDetails">
+          <ScalarProperty Name="Customer_Id" ColumnName="Customer Id" />
+          <ScalarProperty Name="Customer_Name" ColumnName="Customer Name" />
+          <ScalarProperty Name="Customer_Email" ColumnName="Customer Email" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Contact_Number" ColumnName="Contact Number" />
+          <ScalarProperty Name="Date_of_Birth" ColumnName="Date of Birth" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="InvoiceHeaderDetails">
+      <EntityTypeMapping TypeName="WinheProjectModel.InvoiceHeaderDetail">
+        <MappingFragment StoreEntitySet="InvoiceHeaderDetails">
+          <ScalarProperty Name="Invoice_No" ColumnName="Invoice_No" />
+          <ScalarProperty Name="Customer_Id" ColumnName="Customer_Id" />
+          <ScalarProperty Name="Invoice_Date" ColumnName="Invoice_Date" />
+          <ScalarProperty Name="Invoice_Amount" ColumnName="Invoice_Amount" />
+          <ScalarProperty Name="Discount" ColumnName="Discount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="InvoiceLineDetails">
+      <EntityTypeMapping TypeName="WinheProjectModel.InvoiceLineDetail">
+        <MappingFragment StoreEntitySet="InvoiceLineDetails">
+          <ScalarProperty Name="Invoice_No" ColumnName="Invoice_No" />
+          <ScalarProperty Name="Product_Id" ColumnName="Product_Id" />
+          <ScalarProperty Name="Qntity" ColumnName="Qntity" />
+          <ScalarProperty Name="Unit_Price" ColumnName="Unit Price" />
+          <ScalarProperty Name="Total_Price" ColumnName="Total Price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductDetails">
+      <EntityTypeMapping TypeName="WinheProjectModel.ProductDetail">
+        <MappingFragment StoreEntitySet="ProductDetails">
+          <ScalarProperty Name="Product_Id" ColumnName="Product Id" />
+          <ScalarProperty Name="Product_Name" ColumnName="Product Name" />
+          <ScalarProperty Name="Product_Description" ColumnName="Product Description" />
+          <ScalarProperty Name="Purchase_Price" ColumnName="Purchase Price" />
+          <ScalarProperty Name="Selling_Price" ColumnName="Selling Price" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="Proc_GetCustomers" FunctionName="WinheProjectModel.Store.Proc_GetCustomers">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="WinheProjectModel.Proc_GetCustomers_Result">
+          <ScalarProperty Name="Customer_Id" ColumnName="Customer_Id" />
+          <ScalarProperty Name="Customer_Name" ColumnName="Customer_Name" />
+          <ScalarProperty Name="Customer_Email" ColumnName="Customer_Email" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Cuntact_Number" ColumnName="Cuntact_Number" />
+          <ScalarProperty Name="Date_Of_Birth" ColumnName="Date_Of_Birth" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="Proc_GetProducts" FunctionName="WinheProjectModel.Store.Proc_GetProducts">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="WinheProjectModel.Proc_GetProducts_Result">
+          <ScalarProperty Name="Product_id" ColumnName="Product_id" />
+          <ScalarProperty Name="Product_Name" ColumnName="Product_Name" />
+          <ScalarProperty Name="Product_Description" ColumnName="Product_Description" />
+          <ScalarProperty Name="Purches_Prise" ColumnName="Purches_Prise" />
+          <ScalarProperty Name="Selling_Prise" ColumnName="Selling_Prise" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,35 @@
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\Model\bin\Debug\Model.dll
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\Model\bin\Debug\Model.pdb
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\Model\obj\Debug\Model.dll
+C:\Users\RikaPC\Desktop\Visual Studio Works\WinheProjectInvoice\Model\obj\Debug\Model.pdb
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\Model\bin\Debug\Model.dll
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\Model\bin\Debug\Model.pdb
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\Model\obj\Debug\Model.dll
+C:\Users\RikaPC\Desktop\It\WinheProjectInvoice\Model\obj\Debug\Model.pdb
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\Model\bin\Debug\Model.dll
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\Model\bin\Debug\Model.pdb
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\Model\obj\Debug\Model.dll
+C:\Users\RikaPC\Desktop\Final\WinheProjectInvoice\Model\obj\Debug\Model.pdb
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\Model\bin\Debug\Model.dll
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\Model\bin\Debug\Model.pdb
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\Model\obj\Debug\Model.dll
+C:\Users\RikaPC\Desktop\Final 2\Final\WinheProjectInvoice\Model\obj\Debug\Model.pdb
+E:\Class\Final 2\Final\WinheProjectInvoice\Model\bin\Debug\Model.dll
+E:\Class\Final 2\Final\WinheProjectInvoice\Model\bin\Debug\Model.pdb
+E:\Class\Final 2\Final\WinheProjectInvoice\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Class\Final 2\Final\WinheProjectInvoice\Model\obj\Debug\Model.dll
+E:\Class\Final 2\Final\WinheProjectInvoice\Model\obj\Debug\Model.pdb
+E:\Projects\WinheProjectInvoice\Model\bin\Debug\Model.dll
+E:\Projects\WinheProjectInvoice\Model\bin\Debug\Model.pdb
+E:\Projects\WinheProjectInvoice\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Projects\WinheProjectInvoice\Model\obj\Debug\Model.dll
+E:\Projects\WinheProjectInvoice\Model\obj\Debug\Model.pdb
+F:\CIS Test\WinheProjectInvoice\Model\bin\Debug\Model.dll
+F:\CIS Test\WinheProjectInvoice\Model\bin\Debug\Model.pdb
+F:\CIS Test\WinheProjectInvoice\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\CIS Test\WinheProjectInvoice\Model\obj\Debug\Model.dll
+F:\CIS Test\WinheProjectInvoice\Model\obj\Debug\Model.pdb
